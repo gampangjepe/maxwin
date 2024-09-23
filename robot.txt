@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gampangjepe.github.io/maxwin/sitemap.xml
